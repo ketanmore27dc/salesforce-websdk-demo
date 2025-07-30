@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "datasets": [
+    {
+      "name": "Leads Web Events",
+      "source": "web",
+      "schemaFile": "leads_schema.json"
+    }
+  ]
+}

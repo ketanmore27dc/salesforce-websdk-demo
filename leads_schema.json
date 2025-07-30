@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "objects": [
+    {
+      "object": "Individual",
+      "fields": {
+        "email": "email",
+        "name": "name"
+      }
+    },
+    {
+      "object": "WebPageVisit",
+      "fields": {
+        "pageUrl": "page",
+        "title": "title",
+        "eventTimestamp": "timestamp"
+      }
+    },
+    {
+      "object": "Lead",
+      "fields": {
+        "email": "email",
+        "name": "name",
+        "eventTimestamp": "timestamp"
+      }
+    }
+  ]
+}
